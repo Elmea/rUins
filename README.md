@@ -2,7 +2,7 @@
 
 ![Gameplay footage](rUins.gif)
 
-A platformer by me and [Nino Masseteau](https://github.com/Elmea) made fully in Blueprints on Unreal Engine 4.27.2. for a student project from Isart Digital.
+A platformer by [Vegasword](https://github.com/vegasword/rUins) and [Elméa](https://github.com/Elmea) made fully in Blueprints on Unreal Engine 4.27.2. for a student project from Isart Digital.
 
 You play as a fox discovering elden cubic ruins in an enchanted forest.
 
@@ -22,3 +22,7 @@ Free / Free for month assets packs from the Unreal Marketplace:
 - [Wolves models](https://www.unrealengine.com/marketplace/en-US/product/poly-art-wolf)
 - [Grass](https://www.unrealengine.com/marketplace/en-US/product/fe0a7c01da854223bda935f111aab4f4)
 - [Environments](https://www.unrealengine.com/marketplace/en-US/product/dreamscape-nature-meadows)
+
+## Post scriptum
+
+I had to repost this project, the base date was arround december 2022.
